@@ -1,10 +1,10 @@
-# <a href="https://harish112233-rag.github.io/" target="_blank">My Portfolio</a>
+# <a href="https://harish112233-rag.github.io/alaxit-consultancy-ltd" target="_blank">Alaxit Consultancy Services</a>
 <p align="justify">This website displays my Projects, Web presence, Story, Work experience, and contact information.</p>
 
 [![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/harish112233-rag/harish112233-rag.github.io)
-[![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://harish112233-rag.github.io)
+[![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://harish112233-rag.github.io/alaxit-consultancy-ltd)
 [![Author](https://img.shields.io/badge/Author-Harish%20Raghavendar-purple.svg)](https://www.instagram.com/harish__g_?igshid=YmMyMTA2MsY%3D)
-[![Latest Release](https://img.shields.io/badge/Latest%20Release-11%20Jan%202024-yellow.svg)](https://github.com/harish112233-rag/harish112233-rag.github.io)
+[![Latest Release](https://img.shields.io/badge/Latest%20Release-11%20Jan%202024-yellow.svg)](https://github.com/harish112233-rag/harish112233-rag.github.io/alaxit-consultancy-ltd)
 <a href="[https://github.com/harish112233-rag/harish112233-rag.github.io/blob/master/LICENSE"><img alt="License" src="http://img.shields.io/:license-mit-blue.svg?style=flat-square?style=flat-square" /></a>
 
 
@@ -12,11 +12,11 @@
 
 # Sections 📚
 
-✔️ Mini intro\
-✔️ About me \
-✔️ Skills\
-✔️ Projects\
-✔️ Contact me
+✔️ Home\
+✔️ About Us \
+✔️ Career\
+✔️ Services\
+✔️ Contact
 
 ## Installation & Deployment 📦
 - Clone the repository and modify the content of <b>index.html</b> according to your requirement.
